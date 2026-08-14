@@ -1,0 +1,30 @@
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Eclipse / Spring Tools
+.factorypath
+.springBeans
+.sts4-cache/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local configuration / secrets
+.env
+.env.*
+application-local.properties
+application-local.yml
+application-local.yaml
